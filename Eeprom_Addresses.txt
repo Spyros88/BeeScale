@@ -1,0 +1,22 @@
+-----------------------------------
+Following adresses have been issued
+-----------------------------------
+adress 		 size
+50 		 1 (Byte)
+51 		 1 (Byte)
+52 		 1 (Byte)
+53 		 1 (Byte)
+54 		 1 (Byte)
+55 		 1 (Byte)
+56 		 1 (Byte)
+57 		 1 (Byte)
+58 		 1 (Byte)
+59 		 2 (int)
+61 		 2 (int)
+63 		 2 (int)
+65 		 2 (int)
+67 		 2 (int)
+69 		 2 (int)
+71 		 10 (array of 10 chars)
+81 		 10 (array of 10 chars)
+91 		 4 (array of 4 chars)
