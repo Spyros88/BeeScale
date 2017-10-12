@@ -10,7 +10,7 @@
 // since they can be started up by this pin on given time intervals.
 //===============Settings Commands==============
 //set number to send sms            
-//"1234,NUMBER:6981014904"
+//"1234,NUMBER:00000000"
 //change password
 //"1234,CHANGE:1821"
 //set wake3

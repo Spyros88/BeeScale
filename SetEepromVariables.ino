@@ -43,8 +43,8 @@ int AddressIntHour3;
 int AddressIntMinute3;
 
 
-char Number1[]   = "6981014904";
-char Number2[]   = "0000000000";
+char Number1[]   = "0000000000";// change to your mobile number
+char Number2[]   = "0000000000";// second number not implemented yet 
 char Password[]  = "1234";
 char input[]     = "Arduino";
 
